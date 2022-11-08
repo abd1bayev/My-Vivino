@@ -43,7 +43,7 @@ What is to be a Data Scientist?
 
 ## Installation
 !pip install sklearn
-
+!pip install catboost
 !pip install seaborn
 ## Usage
 
